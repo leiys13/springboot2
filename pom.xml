@@ -12,6 +12,7 @@
 	</parent>
 	
 	<dependencies>
+		<!-- web项目的依赖 -->
 	    <dependency>
 	        <groupId>org.springframework.boot</groupId>
 	        <artifactId>spring-boot-starter-web</artifactId>
